@@ -4,3 +4,9 @@ Trying to understand git push for the second commit
 Version control
 Git add .  [ to stage the files in order to commit]
 git reset . [unstage the files]
+git branch [ to see which branch on you are in]
+git checkout -b name  [creating a new branch]
+git stash -u  [save all your current changes without commiting them and revert back to a clean working directory ]
+git stash pop  [apply those changes to current working directory]
+
+git merge branch_name [it will merge the feature branch to the main branch]
