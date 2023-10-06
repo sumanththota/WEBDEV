@@ -10,4 +10,5 @@ git stash -u  [save all your current changes without commiting them and revert b
 git stash pop  [apply those changes to current working directory]
 
 git merge branch_name [it will merge the feature branch to the main branch]
-tesitng out the squash feature
+
+git push origin branch_name [to push the changes to our remote repository]
