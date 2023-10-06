@@ -1,3 +1,6 @@
 In this folder i am going to create web page and my learnign jounrney towards React
 Trying to push this file into github
 Trying to understand git push for the second commit
+Version control
+Git add .  [ to stage the files in order to commit]
+git reset . [unstage the files]
