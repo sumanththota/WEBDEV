@@ -6,6 +6,7 @@ Git add .  [ to stage the files in order to commit]
 git reset . [unstage the files]
 git branch [ to see which branch on you are in]
 git checkout -b name  [creating a new branch]
+git branch -d branch_name [will delete the old branch]
 git stash -u  [save all your current changes without commiting them and revert back to a clean working directory ]
 git stash pop  [apply those changes to current working directory]
 
