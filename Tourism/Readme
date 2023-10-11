@@ -13,3 +13,4 @@ git stash pop  [apply those changes to current working directory]
 git merge branch_name [it will merge the feature branch to the main branch]
 
 git push origin branch_name [to push the changes to our remote repository]
+just to change a line and push it in the git repository
