@@ -5,6 +5,9 @@ Version control
 Git add .  [ to stage the files in order to commit]
 git reset . [unstage the files]
 git branch [ to see which branch on you are in]
+git branch branch_name [to create a new branch]
+[chekout is used for swithching branches] => The modern command is "switch"
+[git ls-files to see what files are in the staging}
 git checkout -b name  [creating a new branch]
 git branch -d branch_name [will delete the old branch]
 git stash -u  [save all your current changes without commiting them and revert back to a clean working directory ]
